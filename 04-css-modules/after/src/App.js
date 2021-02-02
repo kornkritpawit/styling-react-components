@@ -9,6 +9,7 @@ const theme = {
   Newsletter: css
 }
 
+
 function App() {
   return (
     <div className="app__newsletter">
